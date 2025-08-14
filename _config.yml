@@ -1,0 +1,20 @@
+title: "Alisha Santoorjian"
+description: "Children’s Book Author"
+url: "https://yourusername.github.io"
+remote_theme: zerostaticthemes/jekyll-serif-theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation links
+header_pages:
+  - books.md
+  - about.md
+  - contact.md
+
+# Author info
+author:
+  name: "Alisha Santoorjian"
+  avatar: /assets/images/author.jpg
+  bio: "Children’s book author, snow lover, and husky wrangler."
