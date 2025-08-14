@@ -1,0 +1,10 @@
+main:
+  - name: "Books"
+    url: /books/
+    weight: 1
+  - name: "About"
+    url: /about/
+    weight: 2
+  - name: "Contact"
+    url: /contact/
+    weight: 3
